@@ -1,5 +1,6 @@
 # An-Lightweight-Multi-Scale-Feature-Fusion-Network-LMSFF-Net
 
+![](./fig1.png)
 
 模型地址：
   百度云地址：https://pan.baidu.com/s/1QBKOeV4UOcNGTpLwKCbIsw
